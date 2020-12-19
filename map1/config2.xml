@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MODEL>
+
+<!-- 45 cards -->
+
+<CARD numberOfBonuses="2" cities="A"  type1="VICTORY" quantity1="4" type2="COIN" quantity2="3">
+</CARD>
+
+
+<CARD numberOfBonuses="2" cities="AB" type1="POLITIC" quantity1="1" type2="COIN" quantity2="3">
+</CARD>
+
+<CARD numberOfBonuses="2" cities="FGJ" type1="COIN" quantity1="2" type2="VICTORY" quantity2="1">
+</CARD>
+
+<CARD numberOfBonuses="2" cities="BCD" type1="ASSISTANT" quantity1="1" type2="VICTORY" quantity2="1">
+</CARD>
+
+<CARD numberOfBonuses="1" cities="AE" type1="NOBILITY" quantity1="2" >
+</CARD>
+
+<CARD numberOfBonuses="1" cities="LMN" type1="VICTORY" quantity1="3" >
+</CARD>
+
+<CARD numberOfBonuses="2" cities="KLO" type1="POLITIC" quantity1="1" type2="COIN" quantity2="1">
+</CARD>
+
+<CARD numberOfBonuses="2" cities="FGH" type1="NOBILITY" quantity1="1" type2="COIN" quantity2="1">
+</CARD>
+
+<CARD numberOfBonuses="2" cities="GHI" type1="POLITIC" quantity1="1" type2="ASSISTANT" quantity2="1">
+</CARD>
+
+<CARD numberOfBonuses="1" cities="ABC" type1="ASSISTANT" quantity1="2" >
+</CARD>
+
+<!-- 10 -->
+
+
+
+
+
+
+
+<CARD numberOfBonuses="1" cities="ABE" type1="COIN" quantity1="3" >
+</CARD>
+
+<CARD numberOfBonuses="2" cities="KNO" type1="POLITIC" quantity1="1" type2="VICTORY" quantity2="1">
+</CARD>
+<CARD numberOfBonuses="2" cities="MNO" type1="NOBILITY" quantity1="1" type2="VICTORY" quantity2="1">
+</CARD>
+<CARD numberOfBonuses="1" cities="IJH" type1="POLITIC" quantity1="2" >
+</CARD>
+<CARD numberOfBonuses="2" cities="FIJ" type1="ASSISTANT" quantity1="1" type2="NOBILITY" quantity2="1">
+</CARD>
+
+<CARD numberOfBonuses="2" cities="B" type1="POLITIC" quantity1="3" type2="ASSISTANT" quantity2="1">
+</CARD>
+<CARD numberOfBonuses="2" cities="BC" type1="VICTORY" quantity1="3" type2="COIN" quantity2="3">
+</CARD>
+<CARD numberOfBonuses="2" cities="ADE" type1="COIN" quantity1="1" type2="VICTORY" quantity2="2">
+</CARD>
+<CARD numberOfBonuses="2" cities="CDE" type1="POLITIC" quantity1="1" type2="NOBILITY" quantity2="1">
+</CARD>
+<CARD numberOfBonuses="2" cities="KLM" type1="ASSISTANT" quantity1="1" type2="COIN" quantity2="1">
+</CARD>
+
+<!-- 20 -->
+
+<CARD numberOfBonuses="2" cities="C" type1="ASSISTANT" quantity1="2" type2="COIN" quantity2="3">
+</CARD>
+<CARD numberOfBonuses="2" cities="CD" type1="VICTORY" quantity1="3" type2="ASSISTANT" quantity2="1">
+</CARD>
+
+
+<CARD numberOfBonuses="1" cities="D" type1="VICTORY" quantity1="7" >
+</CARD>
+<CARD numberOfBonuses="2" cities="DE" type1="VICTORY" quantity1="3" type2="ASSISTANT" quantity2="1">
+</CARD>
+
+
+
+<CARD numberOfBonuses="2" cities="E" type1="ACTION" quantity1="1" type2="COIN" quantity2="2">
+</CARD>
+
+
+
+<CARD numberOfBonuses="2" cities="F" type1="POLITIC" quantity1="2" type2="COIN" quantity2="4">
+</CARD>
+<CARD numberOfBonuses="1" cities="FG" type1="COIN" quantity1="5" >
+</CARD>
+
+<CARD numberOfBonuses="2" cities="FJ" type1="ASSISTANT" quantity1="2" type2="COIN" quantity2="1">
+</CARD>
+
+
+
+<CARD numberOfBonuses="3" cities="G" type1="ASSISTANT" quantity1="2" type2="VICTORY" quantity2="2" type3="NOBILITY" quantity3="1">
+</CARD>
+<CARD numberOfBonuses="1" cities="GH" type1="ASSISTANT" quantity1="3" >
+</CARD>
+
+<!-- 30 -->
+
+<CARD numberOfBonuses="1" cities="H" type1="ASSISTANT" quantity1="4" >
+</CARD>
+<CARD numberOfBonuses="1" cities="HI" type1="VICTORY" quantity1="5" >
+</CARD>
+
+
+
+<CARD numberOfBonuses="2" cities="I" type1="POLITIC" quantity1="2" type2="ASSISTANT" quantity2="2">
+</CARD>
+<CARD numberOfBonuses="2" cities="IJ" type1="POLITIC" quantity1="2" type2="NOBILITY" quantity2="1">
+</CARD>
+
+
+
+
+
+<CARD numberOfBonuses="1" cities="K" type1="POLITIC" quantity1="4" >
+</CARD>
+<CARD numberOfBonuses="2" cities="KL" type1="POLITIC" quantity1="1" type2="ASSISTANT" quantity2="2">
+</CARD>
+
+<CARD numberOfBonuses="2" cities="KO" type1="POLITIC" quantity1="2" type2="NOBILITY" quantity2="1">
+</CARD>
+
+
+<CARD numberOfBonuses="2" cities="L" type1="COIN" quantity1="1" type2="ASSISTANT" quantity2="3">
+</CARD>
+<CARD numberOfBonuses="1" cities="LM" type1="POLITIC" quantity1="3" >
+</CARD>
+
+
+
+<CARD numberOfBonuses="2" cities="M" type1="VICTORY" quantity1="5" type2="NOBILITY" quantity2="1">
+</CARD>
+<!-- 40 -->
+
+<CARD numberOfBonuses="1" cities="MN" type1="ACTION" quantity1="1">
+</CARD>
+
+
+<CARD numberOfBonuses="1" cities="N" type1="COIN" quantity1="7" >
+</CARD>
+<CARD numberOfBonuses="2" cities="NO" type1="VICTORY" quantity1="2" type2="POLITIC" quantity2="2">
+</CARD>
+
+
+<CARD numberOfBonuses="2" cities="O" type1="POLITIC" quantity1="3" type2="NOBILITY" quantity2="1">
+</CARD>
+
+<CARD numberOfBonuses="2" cities="CD" type1="POLITIC" quantity1="3" type2="VICTORY" quantity2="1">
+</CARD>
+
+
+</MODEL>

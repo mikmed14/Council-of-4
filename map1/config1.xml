@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<MODEL>
+
+  <COAST numberOfBonuses="1" bonus1="VICTORY" quantity1="5" >
+        <A  numberOfBonuses="1" color="GOLD" links="BC" name="AtlanticCity" bonus1="VICTORY" quantity1="3" king="0">
+        </A>
+        <B numberOfBonuses="1" color="BRONZE" links="ADE" name="Babilon" bonus1="COIN" quantity1="1" king="0">
+        </B>
+        <C numberOfBonuses="1" color="SILVER" links="AF" name="Cologno" bonus1="POLITIC" quantity1="1" king="0">
+        </C>
+        <D numberOfBonuses="1" color="IRON" links="BG" name="Detroit" bonus1="ASSISTANT" quantity1="2" king="0">
+        </D>
+        <E numberOfBonuses="1" color="SILVER" links="BH" name="Echo" bonus1="NOBILITY" quantity1="1" king="0" >
+        </E>
+  </COAST>
+
+  <HILL numberOfBonuses="1" bonus1="VICTORY" quantity1="5">
+        <F numberOfBonuses="2" color="GOLD" links="CI" name="FarAway" bonus1="VICTORY" quantity1="1" bonus2="POLITIC" quantity2="1" king="0">
+        </F>
+        <G numberOfBonuses="1" color="SILVER" links="DJ" name="GhostCity" bonus1="NOBILITY" quantity1="1" king="0">
+        </G>
+        <H numberOfBonuses="1" color="GOLD" links="EJM" name="HighandDry" bonus1="COIN" quantity1="1" king="0" >
+        </H>
+        <I numberOfBonuses="1" color="BRONZE" links="FJK" name="Imagination" bonus1="VICTORY" quantity1="2" king="0">
+        </I>
+        <J numberOfBonuses="0" color="NULL" links="GHIL" name="JavaCity" king="1" >
+        </J>
+   </HILL>
+
+
+   <MOUNTAIN numberOfBonuses="1" bonus1="VICTORY" quantity1="5">
+        <K numberOfBonuses="1" color="GOLD" links="IN" name="Korine" bonus1="VICTORY" quantity1="1" king="0">
+        </K>
+        <L numberOfBonuses="1" color="IRON" links="JO" name="LoveandCry" bonus1="COIN" quantity1="1" king="0">
+        </L>
+        <M numberOfBonuses="2" color="SILVER" links="HO" name="Mercury" bonus1="ASSISTANT" quantity1="1" bonus2="COIN" quantity2="1" king="0">
+        </M>
+        <N numberOfBonuses="1" color="BRONZE" links="KO" name="Nocturne" bonus1="ASSISTANT" quantity1="1" king="0">
+        </N>
+        <O numberOfBonuses="2" color="GOLD" links="NLM" name="Obsidian" bonus1="ASSISTANT" quantity1="1" bonus2="POLITIC" quantity2="1" king="0">
+        </O>
+   </MOUNTAIN>
+
+</MODEL>

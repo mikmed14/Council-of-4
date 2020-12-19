@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRACK>
+<!--0 -->
+<STEP numberOfBonuses="0"  >
+</STEP>
+<!--1 -->
+<STEP numberOfBonuses="2"  type1="VICTORY" quantity1="2" type2="COIN" quantity2="2">
+</STEP>
+<!--2 -->
+<STEP numberOfBonuses="0"  >
+</STEP>
+<!--3 -->
+<STEP numberOfBonuses="1" type1="CITYREWARD" quantity1="1">
+</STEP>
+<!--4 -->
+<STEP numberOfBonuses="0"  >
+</STEP>
+<!--5 -->
+<STEP numberOfBonuses="2" type1="VICTORY" quantity1="3" type2="POLITIC" quantity2="1" >
+</STEP>
+<!--6 -->
+<STEP numberOfBonuses="0"  >
+</STEP>
+<!--7 -->
+<STEP numberOfBonuses="1" type1="ACTION" quantity1="1" >
+</STEP>
+<!--8 -->
+<STEP numberOfBonuses="0" >
+</STEP>
+<!--9 -->
+<STEP numberOfBonuses="0"  >
+</STEP>
+<!--10 -->
+
+<STEP numberOfBonuses="1"  type1="MYPERMIT" quantity1="1">
+</STEP>
+<!--11 -->
+<STEP numberOfBonuses="0"  >
+</STEP>
+<!--12 -->
+<STEP numberOfBonuses="1" type1="CITYREWARD" quantity1="2" >
+</STEP>
+<!--13 -->
+<STEP numberOfBonuses="0"  >
+</STEP>
+<!--14 -->
+<STEP numberOfBonuses="1"  type1="PERMIT" quantity1="1">
+</STEP>
+<!--15 -->
+<STEP numberOfBonuses="0"  >
+</STEP>
+<!--16 -->
+<STEP numberOfBonuses="2"  type1="VICTORY" quantity1="5" type2="ASSISTANT" quantity2="1" >
+</STEP>
+<!--17 -->
+<STEP numberOfBonuses="0"  >
+</STEP>
+<!--18-->
+<STEP numberOfBonuses="1"  type1="VICTORY" quantity1="10">
+</STEP>
+<!--19 -->
+<STEP numberOfBonuses="1"  type1="VICTORY" quantity1="3">
+</STEP>
+<!--20 -->
+<STEP numberOfBonuses="1"  type1="VICTORY" quantity1="1">
+</STEP>
+
+
+</TRACK>
